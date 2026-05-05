@@ -1,7 +1,7 @@
 # TFG Implementaciones en Python | [Universidad de Sevilla] | [2026]
 Este repositorio contiene las implementaciones desarrolladas como parte de mi TFG. Incluye algoritmos clásicos de aprendizaje automático aplicados al dataset Iris, redes neuronales recurrentes aplicadas a MNIST, y el núcleo del trabajo: una comparativa entre modelos de regresión clásicos y arquitecturas LSTM/GRU para la predicción de series temporales financieras (S&P 500).
 ## Estructura del repositorio
-Machine learning iris/
+Machine learning iris
 
   └── decisiontreeIris.ipynb
   
@@ -13,7 +13,7 @@ Machine learning iris/
   
   └── svmiris.ipynb
   
-ANN básicas/
+ANN básicas
 
   └── basicrnn.ipynb
   
@@ -21,7 +21,7 @@ ANN básicas/
   
   └── mnistANN.ipynb
   
-Predicción sp500/
+Predicción sp500
 
   └── comparacion1_reglineal.ipynb
   
