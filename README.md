@@ -2,27 +2,27 @@
 Este repositorio contiene las implementaciones desarrolladas como parte de mi TFG. Incluye algoritmos clásicos de aprendizaje automático aplicados al dataset Iris, redes neuronales recurrentes aplicadas a MNIST, y el núcleo del trabajo: una comparativa entre modelos de regresión clásicos y arquitecturas LSTM/GRU para la predicción de series temporales financieras (S&P 500).
 ## Estructura del repositorio
 Machine learning iris/
-  ├── decisiontreeIris.ipynb
+  └── decisiontreeIris.ipynb
   
-  ├── irisclassifier.ipynb
+  └── irisclassifier.ipynb
   
-  ├── iris_reg_logistica.ipynb
+  └── iris_reg_logistica.ipynb
   
-  ├── knniris.ipynb
+  └── knniris.ipynb
   
   └── svmiris.ipynb
   
 ANN básicas/
-  ├── basicrnn.ipynb
+  └── basicrnn.ipynb
   
   └── mnist_rnn.ipynb
   
   └── mnistANN.ipynb
   
 Predicción sp500/
-  ├── comparacion1_reglineal.ipynb
+  └── comparacion1_reglineal.ipynb
   
-  ├── comparacion2_reglog.ipynb    
+  └── comparacion2_reglog.ipynb    
 
 ## Contenido
 ### Clasificación sobre el dataset Iris
