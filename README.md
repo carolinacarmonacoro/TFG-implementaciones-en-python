@@ -3,18 +3,25 @@ Este repositorio contiene las implementaciones desarrolladas como parte de mi TF
 ## Estructura del repositorio
 Machine learning iris/
   ├── decisiontreeIris.ipynb
+  
   ├── irisclassifier.ipynb
+  
   ├── iris_reg_logistica.ipynb
+  
   ├── knniris.ipynb
+  
   └── svmiris.ipynb
   
 ANN básicas/
   ├── basicrnn.ipynb
+  
   └── mnist_rnn.ipynb
+  
   └── mnistANN.ipynb
   
 Predicción sp500/
   ├── comparacion1_reglineal.ipynb
+  
   ├── comparacion2_reglog.ipynb    
 
 ## Contenido
